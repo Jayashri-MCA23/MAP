@@ -8,7 +8,7 @@ This HTML document displays a map using Mapbox and a button to animate a marker'
 
 step1:Save the HTML file with .html extension.
 
-step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words
+step2:Click the "Go Live" button.A new browser window will open, displaying map moving from one place to another place.
 
 ****Future Enhancement:****
 
